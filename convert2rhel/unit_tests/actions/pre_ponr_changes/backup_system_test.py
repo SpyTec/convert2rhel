@@ -141,6 +141,7 @@ class TestBackupSystem:
             (
                 """     missing   d /usr/share/info/ed.info.gz
                 S.5.?..T. c     /etc/yum.repos.d/CentOS-Linux-AppStream.repo
+                S.5.?..T. c     /etc/yum.repos.d/CentOS-Linux-AppStream.repo
                 S.5.?..T.        /etc/yum.repos.d/CentOS-Linux-AppStream.repo
 
 
